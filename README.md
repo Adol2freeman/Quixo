@@ -13,3 +13,5 @@ Quxio 是一款玩法多變的棋類遊戲，可以兩至四個人遊玩，只�
 <img width="1552" alt="螢幕截圖 2023-09-05 19 24 56" src="https://github.com/Adol2freeman/Quixo/assets/103558923/2fa96c4d-e11e-4d13-b105-13b3b2f1f832">
 
 # 影片
+https://github.com/Adol2freeman/Quixo/assets/103558923/09617e7d-f8e8-4cf2-961c-e389ff66de53
+
